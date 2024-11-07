@@ -37,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60px" alt="npm">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="60px" alt="Express">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aspnet/aspnet-original-wordmark.svg" width="60px" alt="ASP.NET MVC">&nbsp;&nbsp;
 
 
   <!-- Storages -->
@@ -59,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="60px" alt="CLion">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="60px" alt="Arduino IDE">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/tree/master/icons/canva" width="60px" alt="Canva">&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60px" alt="Git">&nbsp;&nbsp;
 </div>
 
 </br>
