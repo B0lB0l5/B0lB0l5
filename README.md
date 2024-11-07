@@ -32,6 +32,7 @@
   <h3>Operating Systems</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60px" alt="Linux">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="60px" alt="Windows">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="60px" alt="Apple">&nbsp;&nbsp;
 
   <!-- Frameworks -->
   <h3>Frameworks</h3>
@@ -49,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60px" alt="MongoDB">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="60px" alt="Mongoose">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" alt="MySQL">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudinary/cloudinary-original.svg" width="60px" alt="Cloudinary">&nbsp;&nbsp;
 
   <!-- Tools -->
   <h3>Tools</h3>
@@ -61,11 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="60px" alt="CLion">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="60px" alt="Arduino IDE">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" width="60px" alt="Raspberrypi">&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/canva" width="60px" alt="Canva">&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60px" alt="Git">&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60px" alt="Github">&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="60px" alt="Notion">&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="60px" alt="Postman">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60px" alt="Git">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60px" alt="Github">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="60px" alt="Notion">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="60px" alt="Postman">&nbsp;&nbsp;
 </div>
 
 </br>
