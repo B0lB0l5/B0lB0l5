@@ -1,9 +1,8 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:4B0082,50:8A2BE2,100:DDA0DD&height=250&section=header&text=Ahmed%20Nabil%20(BolBol)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?color=0:4B0082,50:8A2BE2,100:DDA0DD&height=250&section=header&text=Hi,%20I'm%20Ahmed%20Nabil%20(BolBol)!&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" alt="header"/>
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ahmed Nabil (BolBol)</h1>
 
 
 <!-- STACK -->
