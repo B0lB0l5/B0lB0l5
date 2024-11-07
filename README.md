@@ -71,10 +71,8 @@
 
 ## <b> Let's Connect..!🤝</b>
 <div align="center">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_aahmeed_nnabiil_/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram">
-  </a>
+  <a href="https://www.linkedin.com/in/ahmed-nabil-b0lb0l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_aahmeed_nnabiil_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </div>
 
 <div align="center">
