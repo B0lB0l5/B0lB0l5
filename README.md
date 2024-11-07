@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Ahmed%20Nabil%20(BolBol)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:4B0082,50:8A2BE2,100:DDA0DD&height=250&section=header&text=Ahmed%20Nabil%20(BolBol)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
@@ -138,6 +138,6 @@ USED:
 
 ------
 
-Credit: [Dum6o](https://github.com/B0lB0l5)
+Credit: [B0lB0l](https://github.com/B0lB0l5)
 
 Last Edited on: 
