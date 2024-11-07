@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60px" alt="C">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60px" alt="C++">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60px" alt="Bash">&nbsp;&nbsp;
+  
 
 
   <!-- Operating Systems -->
@@ -37,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60px" alt="npm">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="60px" alt="Express">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg" width="60px" alt="NestJS">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="60px" alt="Socketio">&nbsp;&nbsp;
 
 
   <!-- Storages -->
@@ -57,8 +60,12 @@
   <h3>Software & Solutions Platforms</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="60px" alt="CLion">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="60px" alt="Arduino IDE">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" width="60px" alt="Raspberrypi">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/tree/master/icons/canva" width="60px" alt="Canva">&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60px" alt="Git">&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60px" alt="Github">&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="60px" alt="Notion">&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="60px" alt="Postman">&nbsp;&nbsp;
 </div>
 
 </br>
