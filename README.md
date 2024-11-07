@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?color=0:4B0082,50:8A2BE2,100:DDA0DD&height=250&section=header&text=Hi,%20I'm%20Ahmed%20Nabil&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn&fontAlign=50&font=Courier%20New" alt="header"/>
 </div>
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0lb0l&label=Profile%20views&color=0e75b6&style=flat" alt="b0lb0l" /> </p>
 ### 🔍 About Me
 
 - 🛡️ Aspiring **Red Team Analyst** and **Penetration Tester**
@@ -79,7 +80,7 @@
 </div>
 <br><br>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0lb0l&label=Profile%20views&color=0e75b6&style=flat" alt="b0lb0l" /> </p>
+
 
 
 <!-- FOOTER -->
