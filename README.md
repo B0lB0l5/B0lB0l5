@@ -1,77 +1,143 @@
-# 👋 Welcome to My GitHub!
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Ahmed%20Nabil%20(BolBol)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
 
-### Hey there! I'm Ahmed Mohamed Nabil 👨‍💻
-
----
-
-I'm a passionate **Cybersecurity Enthusiast and Web Penetration Tester** dedicated to mastering offensive security. As a junior computer science student, my focus is on becoming a skilled Red Team Analyst. I’m currently expanding my knowledge and skills through self-study, hands-on labs, and real-world training in various cybersecurity fields.
-
----
-
-### 🔍 About Me
-
-- 🛡️ Aspiring **Red Team Analyst** and **Penetration Tester**
-- 🌱 Currently pursuing a **B.S. in Computer Science** at the Higher Technological Institute
-- 👨‍🏫 Actively enhancing my skills through platforms like **TryHackMe**, **HackerOne**, and **CTFLearn**
-- 💻 Gaining hands-on experience through internships and real-world projects with **Route Academy** and **ENPPI**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-nabil-b0lb0l) | [GitHub](https://github.com/B0lB0l5)
-
----
-
-### 🛠️ Skills
-
-#### Programming Languages
-- **C/C++**, **Python**, **JavaScript**
-
-#### Cybersecurity Tools & Frameworks
-- **Nmap**, **Burp Suite**, **Wireshark**, **Google Hacking Database**, **CyberChef**
+<!-- STACK -->
+<div align="center" width="100">
+  <h1>Stack</h1>
   
-#### Operating Systems & Virtualization
-- **Linux**, **Windows**
-- **VMware Workstation**, **VirtualBox**
+  <!-- Languages -->
+  </br>
+  <h3>Languages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    width="60px"
+    alt="Java">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="60px"
+    alt="Typescript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="60px"
+    alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    width="60px"
+    alt="HTML5">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Frameworks -->
+  </br>
+  <h3>Frameworks</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    width="60px"
+    alt="NodeJS">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+    width="60px"
+    alt="npm">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    width="60px"
+    alt="Bootstrap">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Storages -->
+  </br>
+  <h3>Storages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    width="60px"
+    alt="Oracle">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
+    width="60px"
+    alt="Firebase">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Tools -->
+  </br>
+  <h3>Tools</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    width="60px"
+    alt="Git">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+    width="60px"
+    alt="VS Code">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+</div>
 
-#### Databases
-- **SQL**, **MySQL**, **MongoDB**, **Mongoose**
+</br>
+</br>
+</br>
 
-#### Additional Tools & Platforms
-- **Tinkercad**, **Phishtool**, **VS Code**, **Packet Tracer**, **Cloudinary**
+<div align="center">
+  </br>
+  <a href="https://www.linkedin.com/in/edvardasjusius/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
+      alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/e2.edas/">
+    <img
+      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
+      alt="LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
+      alt="LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
+      alt="LinkedIn">
+  </a>
 
----
+  </br>
 
-### 💼 Experience
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
+    alt="Profile Views">
+</div>
 
-- **Backend Development Intern** at **Route Academy**: Developing APIs and database systems using Node.js.
-- **IT Specialist Intern** at **ENPPI**: Exposure to Oracle Forms, virtualization, networking, and more in the petroleum industry.
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
 
----
+<!--
+USED:
+1. Markdown: https://github.github.com/gfm/
+2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
+3. Header/Footer: https://github.com/kyechan99/capsule-render
+4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
+5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
+6. Badges: https://shields.io
+-->
 
-### 🚀 Projects
+------
 
-1. **E-Commerce Platform** - Built with Node.js and Express, incorporating both SQL and NoSQL databases.
-2. **Facetalk** - A social networking platform similar to Facebook.
-3. **Smart Garage System** - Includes an automated fire response system developed using Arduino.
-4. **Sumo Robot ‘Sayed’** - An autonomous robot designed for sumo robot competitions.
+Credit: [Dum6o](https://github.com/B0lB0l5)
 
----
-
-### 📜 Certifications
-
-- **Mastering Pentesting using Kali Linux** - EC-Council
-- **Metasploit Like a Pro** - EC-Council
-- **Burp Suite: Web Application Penetration Testing** - EC-Council
-- **Ethical Hacking** - MaharaTech
-- **Red Hat System Administration I** - MaharaTech
-- **eJPTv1 (Junior Penetration Tester)** - Netriders Academy
-
----
-
-### 📫 Get in Touch
-
-If you’re as passionate about cybersecurity as I am, or have any exciting projects to discuss, feel free to reach out to me!
-
-- **Email**: [ahmednabil707i@gmail.com](mailto:ahmednabil707i@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ahmed-nabil-b0lb0l](https://www.linkedin.com/in/ahmed-nabil-b0lb0l)
-
----
-
-> *"The only way to do great work is to love what you do."* – Steve Jobs
+Last Edited on: 
