@@ -50,11 +50,6 @@
     width="60px"
     alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    width="60px"
-    alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
   </br>
@@ -122,7 +117,7 @@
 
 <!-- FOOTER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  <img src="https://capsule-render.vercel.app/api?color=0:4B0082,50:8A2BE2,100:DDA0DD&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
 
