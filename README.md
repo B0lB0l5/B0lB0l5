@@ -15,7 +15,7 @@
   <h1>Stack</h1>
   
   <!-- Languages -->
-  <h6>Languages</h6>
+  <h1>Languages</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" alt="Typescript">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" alt="Javascript">&nbsp;&nbsp;
