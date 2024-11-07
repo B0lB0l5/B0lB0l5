@@ -69,6 +69,7 @@
 </br>
 </br>
 
+## <b> Let's Connect..!</b>
 <div align="center">
   <a href="https://www.linkedin.com/in/edvardasjusius/">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
