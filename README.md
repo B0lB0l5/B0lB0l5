@@ -72,9 +72,12 @@
 ## <b> Let's Connect..!🤝</b>
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-nabil-b0lb0l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+  <a href="https://twitter.com/b0lb0l5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b0lb0l5" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100040042940928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100040042940928" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_aahmeed_nnabiil_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+  <a href="https://discord.gg/9263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9263" height="30" width="40" /></a>
 </div>
-
+<br><br>
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views" alt="Profile Views">
 </div>
