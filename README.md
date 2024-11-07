@@ -13,7 +13,7 @@
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Stack</h1>
-  </br>
+  <br>
   <!-- Languages -->
   <h2>Languages</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">&nbsp;&nbsp;
@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60px" alt="Bash">&nbsp;&nbsp;
   
 
-</br>
+<br>
   <!-- Operating Systems -->
   <h3>Operating Systems</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60px" alt="Linux">&nbsp;&nbsp;
@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg" width="60px" alt="NestJS">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="60px" alt="Socketio">&nbsp;&nbsp;
 
-</br>
+<br>
   <!-- Storages -->
   <h3>Storages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60px" alt="Oracle">&nbsp;&nbsp;
@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="60px" alt="Mongoose">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" alt="MySQL">&nbsp;&nbsp;
 
-</br>
+<br>
   <!-- Software & Solutions platforms -->
   <h3>Software & Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px" alt="Git">&nbsp;&nbsp;
