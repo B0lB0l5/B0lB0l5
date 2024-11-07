@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px" alt="Python">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60px" alt="C">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60px" alt="C++">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60px" alt="Bash">&nbsp;&nbsp;
 
 
   <!-- Operating Systems -->
@@ -35,7 +36,7 @@
   <h3>Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60px" alt="npm">&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60px" alt="ASP.NET">&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aspnet/aspnet-original-wordmark.svg" width="60px" alt="ASP.NET MVC">&nbsp;&nbsp;
 
 
@@ -64,6 +65,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="60px" alt="CLion">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original-wordmark.svg" width="60px" alt="NetBeans">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="60px" alt="Arduino IDE">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/canva" width="60px" alt="Canva">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="60px" alt="CLion">&nbsp;&nbsp;
 </div>
 
 </br>
