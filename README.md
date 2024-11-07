@@ -57,16 +57,9 @@
   <!-- Software & Solutions platforms -->
   <h3>Software & Solutions Platforms</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vmware/vmware-original-wordmark.svg" width="60px" alt="VMware Workstation">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/virtualbox/virtualbox-original.svg" width="60px" alt="VirtualBox">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg" width="60px" alt="Packet Tracer">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original-wordmark.svg" width="60px" alt="Wireshark">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nmap/nmap-original-wordmark.svg" width="60px" alt="Nmap">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/burp/burp-original-wordmark.svg" width="60px" alt="Burp Suite">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="60px" alt="CLion">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original-wordmark.svg" width="60px" alt="NetBeans">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="60px" alt="Arduino IDE">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/tree/master/icons/canva" width="60px" alt="Canva">&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="60px" alt="CLion">&nbsp;&nbsp;
 </div>
 
 </br>
