@@ -4,7 +4,7 @@
 </div>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0lb0l&label=Profile%20views&color=blueviolet&style=flat" alt="b0lb0l" /> </p>
-### 🔍 About Me
+🔍 About Me
 
 - 🛡️ Aspiring **Red Team Analyst** and **Penetration Tester**
 - 🌱 Currently pursuing a **B.S. in Computer Science** at the Higher Technological Institute
