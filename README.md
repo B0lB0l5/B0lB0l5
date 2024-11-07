@@ -39,7 +39,7 @@
     width="60px"
     alt="HTML5">
     &nbsp;&nbsp;&nbsp;&nbsp;
-      </br>
+      <br>  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
     width="60px"
