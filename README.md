@@ -4,6 +4,13 @@
 </div>
 
 
+### 🔍 About Me
+
+- 🛡️ Aspiring **Red Team Analyst** and **Penetration Tester**
+- 🌱 Currently pursuing a **B.S. in Computer Science** at the Higher Technological Institute
+- 👨‍🏫 Actively enhancing my skills through platforms like **TryHackMe**, **HackerOne**, and **CTFLearn**
+- 💻 Gaining hands-on experience through internships and real-world projects with **Route Academy** and **ENPPI**
+
 
 <!-- STACK -->
 <div align="center" width="100">
