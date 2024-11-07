@@ -78,9 +78,9 @@
   <a href="https://discord.gg/9263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9263" height="30" width="40" /></a>
 </div>
 <br><br>
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views" alt="Profile Views">
-</div>
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0lb0l&label=Profile%20views&color=0e75b6&style=flat" alt="b0lb0l" /> </p>
+
 
 <!-- FOOTER -->
 <div align="center" width="100">
