@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:4B0082,50:8A2BE2,100:DDA0DD&height=250&section=header&text=Hi,%20I'm%20Ahmed%20Nabil&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" alt="header"/>
-  <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
 
 
@@ -95,19 +93,9 @@
       src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
       alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/e2.edas/">
+  <a href="https://www.instagram.com/_aahmeed_nnabiil_/?hl=en">
     <img
       src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
       alt="LinkedIn">
   </a>
 
