@@ -89,24 +89,22 @@
     width="60px"
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-  width="60px"
-  alt="MongoDB">
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    width="60px"
+    alt="MongoDB">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+     </br>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"
   width="60px"
   alt="Mongoose">
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
   width="60px"
   alt="MySQL">
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudinary/cloudinary-original.svg"
   width="60px"
