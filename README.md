@@ -63,6 +63,7 @@
 
 
 <!-- Operating Systems -->
+  <h3>Operating Systems</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
   width="60px"
@@ -140,6 +141,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 
     <!-- Software & Solutions platforms -->
+  <h3>Software & Solutions platforms</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vmware/vmware-original-wordmark.svg"
   width="60px"
