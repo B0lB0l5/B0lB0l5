@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="60px" alt="Windows">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="60px" alt="Apple">&nbsp;&nbsp;
 
+<br><br>
   <!-- Frameworks -->
   <h3>Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">&nbsp;&nbsp;
