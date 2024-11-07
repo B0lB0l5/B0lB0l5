@@ -61,6 +61,21 @@
     alt="C">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
+
+<!-- Operating Systems -->
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+  width="60px"
+  alt="Linux">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
+  width="60px"
+  alt="Windows">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>  
   
   <!-- Frameworks -->
   </br>
@@ -123,6 +138,67 @@
     width="60px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
+
+    <!-- Software & Solutions platforms -->
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vmware/vmware-original-wordmark.svg"
+  width="60px"
+  alt="VMware Workstation">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/virtualbox/virtualbox-original.svg"
+  width="60px"
+  alt="VirtualBox">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg"
+  width="60px"
+  alt="Packet Tracer">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original-wordmark.svg"
+  width="60px"
+  alt="Wireshark">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nmap/nmap-original-wordmark.svg"
+  width="60px"
+  alt="Nmap">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/burp/burp-original-wordmark.svg"
+  width="60px"
+  alt="Burp Suite">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+  width="60px"
+  alt="VS Code">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"
+  width="60px"
+  alt="CLion">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original-wordmark.svg"
+  width="60px"
+  alt="NetBeans">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
+  width="60px"
+  alt="Arduino IDE">
+&nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
 
