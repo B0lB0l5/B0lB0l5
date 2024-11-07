@@ -34,6 +34,9 @@
   <h3>Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60px" alt="npm">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original-wordmark.svg" width="60px" alt="ASP.NET">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aspnet/aspnet-original-wordmark.svg" width="60px" alt="ASP.NET MVC">&nbsp;&nbsp;
+
 
   <!-- Storages -->
   <h3>Storages</h3>
