@@ -43,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="60px" alt="Express">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg" width="60px" alt="NestJS">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="60px" alt="Socketio">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>&nbsp;&nbsp;
 
 <br><br>
   <!-- Storages -->
