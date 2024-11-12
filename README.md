@@ -67,6 +67,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60px" alt="Github">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="60px" alt="Notion">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="60px" alt="Postman">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/MobaXterm_Logo.png" width="60px" alt="MobaXterm">&nbsp;&nbsp;
+
 </div>
 
 </br>
